@@ -1,8 +1,6 @@
-# Halo semua! 
+Hello, my name is **Afad Fath Musyarof Halim**.<br>
 
-Perkenalkan nama saya **Afad Fath Musyarof Halim**.<br>
-
-Saya seorang pelajar dari Telkom University Purwokerto.
+<hr>
 
 <p align="left">
 <a href="https://github.com/Afadfath03">
